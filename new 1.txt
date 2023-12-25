@@ -1,0 +1,28 @@
+- hot drinks
+black tea 3.50
+black coffee 4.00
+white coffee 4.50
+flat white 4.00
+hot chocolate 5.50
+- cold drinks
+iced tea 3.20
+iced coffee 4.80
+iced chocolate 4.40
+lemonade 2.00
+orange juice 2.00
+banana milkshake 4.80
+red bull 2.50
+- food
+cookie 1.00
+sausage roll 3.00
+hotdog 3.00
+chips 2.00
+pancakes 4.50
+apple pie 5.00
+mince pie 5.00
+chicken sandwich 4.50
+salad 2.50
+salmon 5.80
+sushi 8.00
+rice 2.40
+ice cream 1.50
